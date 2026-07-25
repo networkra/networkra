@@ -17,14 +17,15 @@ Especialista em Segurança de Redes e Arquiteto de Soluções MSSP com foco no e
 
 ---
 
-### 🚀 Projeto em Destaque: NRA Sentinel
-O **NRA Sentinel** é um motor ativo de Threat Intelligence (Sniper) que correlaciona dados globais em tempo real para blindar infraestruturas FortiGate.
+### 🚀 Projeto em Destaque: NRA Sentinel & EDL
+O **NRA Sentinel** é um motor ativo de Threat Intelligence (Sniper) que correlaciona dados globais em tempo real para blindar infraestruturas FortiGate, já o **NRA EDL** FortiGuard IP Reputation Database Mirror é um projeto comunitário desenvolvido com o objetivo de democratizar a segurança na borda, auxiliando profissionais, empresas e provedores (MSSPs) que operam appliances FortiGate sem licenciamento ativo devido às atuais restrições orçamentárias do país. Ele automatiza a extração, a sumarização CIDR e o espelhamento contínuo das bases oficiais de reputação de IPs do ISDB (Internet Service Database) de caixas licenciadas, entregando um feed dinâmico limpo, blindado pela nossa Safelist e pronto para consumo nativo via External Resource do FortiGate.
 
 * **Inteligência Híbrida:** Integração OTX AlienVault + AbuseIPDB + URLScan.io + MalwareBazaar.
 * **Foco tático:** Identificação de Malware Families e Zero-days.
 * **Comunidade:** Feeds de alta fidelidade para External Connectors.
+* **FortiGuard (ISDB):** Espelha a reputação oficial de IPs de appliances licenciados (10 categorias críticas), democratizando o bloqueio na borda para caixas sem licença.
 
-👉 **[Acesse o Repositório do NRA Sentinel Community](https://github.com/networkra/nra-sentinel-community)**
+👉 **[Acesse o Repositório do NRA Sentinel & EDL Community](https://github.com/networkra/nra-sentinel-community)**
 
 ---
 
