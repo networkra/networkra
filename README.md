@@ -1,48 +1,37 @@
-# Olá, eu sou o Robert Alexandrino 👋
+# >_ NetworkRA | Automação MSSP & Threat Intelligence
 
-Especialista em Segurança de Redes e Arquiteto de Soluções MSSP com foco no ecossistema **Fortinet**. Atualmente, lidero a iniciativa **NetworkRA**, focada em elevar o nível técnico da comunidade através de automação, estruturas MSSPs e inteligência de ameaças.
+Bem-vindo ao repositório central da **NetworkRA**. 
 
----
-
-### 🛡️ Certificações & Expertise
-<p align="left">
-  <img src="https://img.shields.io/badge/Fortinet-FCSS-red?style=for-the-badge&logo=fortinet&logoColor=white" alt="FCSS">
-  <img src="https://img.shields.io/badge/Fortinet-NSE_7-red?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE 7">
-  <img src="https://img.shields.io/badge/Python-Security-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
-
-- **Arquitetura MSSP:** Desenho de infraestruturas resilientes e escaláveis.
-- **Threat Intelligence:** Desenvolvimento de motores de detecção e resposta a incidentes.
-- **SD-WAN & Automação:** Otimização de redes com foco em performance e segurança.
+Nosso foco é aplicar o conceito de resiliência e resposta autônoma de arquiteturas MSSP corporativas — com forte inspiração em topologias de **SD-WAN Self-Healing** — ao ecossistema de inteligência de ameaças. Construímos e mantemos infraestruturas open-source que detectam, adaptam e mitigam ataques na borda de forma totalmente automatizada.
 
 ---
 
-### 🚀 Projeto em Destaque: NRA Sentinel & EDL
-O **NRA Sentinel** é um motor ativo de Threat Intelligence (Sniper) que correlaciona dados globais em tempo real para blindar infraestruturas FortiGate, já o **NRA EDL** FortiGuard IP Reputation Database Mirror é um projeto comunitário desenvolvido com o objetivo de democratizar a segurança na borda, auxiliando profissionais, empresas e provedores (MSSPs) que operam appliances FortiGate sem licenciamento ativo devido às atuais restrições orçamentárias do país. Ele automatiza a extração, a sumarização CIDR e o espelhamento contínuo das bases oficiais de reputação de IPs do ISDB (Internet Service Database) de caixas licenciadas, entregando um feed dinâmico limpo, blindado pela nossa Safelist e pronto para consumo nativo via External Resource do FortiGate.
+### Infraestrutura em Destaque: NRA Sentinel & OSINT EDL
 
-* **Inteligência Híbrida:** Integração OTX AlienVault + AbuseIPDB + URLScan.io + MalwareBazaar.
-* **Foco tático:** Identificação de Malware Families e Zero-days.
-* **Comunidade:** Feeds de alta fidelidade para External Connectors.
-* **FortiGuard (ISDB):** Espelha a reputação oficial de IPs de appliances licenciados (10 categorias críticas), democratizando o bloqueio na borda para caixas sem licença.
+O **NRA Sentinel** é um motor ativo de Threat Intelligence (Sniper) que correlaciona telemetria global em tempo real para blindar infraestruturas corporativas com bloqueios preventivos. 
 
-👉 **[Acesse o Repositório do NRA Sentinel & EDL Community](https://github.com/networkra/nra-sentinel-community)**
+Em paralelo, o módulo **NRA OSINT EDL (Community Edition)** atua como uma engenharia de defesa focada na democratização da segurança de borda. Ele automatiza a extração, a sumarização CIDR e a compilação de bases OSINT globais consolidadas (como Spamhaus DROP, Firehol e CISA). O ecossistema entrega um *feed* dinâmico e limpo, blindado por nossa Safelist de DNS e pronto para consumo nativo via *External Connectors*, protegendo firewalls desassistidos ou sem licenciamento ativo contra varreduras massivas.
 
----
+* **Sentinel (Core Tático):** Integração OTX AlienVault + AbuseIPDB + URLScan.io + MalwareBazaar para mitigação autônoma de Zero-days.
+* **OSINT EDL (Community):** Compilação estruturada contra Scanners Globais, Phishing e C2, democratizando o bloqueio incondicional (drop).
+* **Engenharia de Entrega:** Feeds de alta fidelidade processados em Python e distribuídos via CDN de baixa latência para instâncias FortiOS.
 
-### 📺 Conecte-se Comigo
-Acredito no compartilhamento de conhecimento como base da nossa evolução técnica.
-
-* 🎥 **YouTube:** [Inscreva-se no Canal NetworkRA](https://www.youtube.com/@networkra) - Aulas práticas e laboratórios de EVE-NG.
-* 💼 **LinkedIn:** [Conecte-se profissionalmente](https://www.linkedin.com/in/networkra/) - Networking e parcerias em MSSP.
-* 💬 **Telegram:** [Comunidade NRA Sentinel - Por Convite] - Alertas em tempo real.
+🌐 **Portal (Cloudflare CDN):** **[networkra.seg.br](https://networkra.seg.br)**
+👉 **[Acesse a Documentação Oficial do NRA Sentinel & OSINT EDL](https://github.com/networkra/nra-sentinel-community)**
 
 ---
 
-### 📊 Estatísticas de Atividade
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=networkra&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</p>
+### 📺 Ecossistema NetworkRA
+
+Acredito no compartilhamento de arquiteturas e códigos como base da evolução do mercado de cibersegurança nacional.
+
+* 🎥 **YouTube:** [Canal NetworkRA](https://www.youtube.com/@networkra) - Masterclasses, laboratórios avançados e automação.
+* 💼 **LinkedIn:** [Robert Alexandrino](https://www.linkedin.com/in/networkra/) - Networking focado em Operações de SOC e MSSP.
+* 💬 **Telegram:** [Comunidade NRA Sentinel & OSINT](https://t.me/+jHlbAlp-7Xg0MTJh) - Grupo aberto para todos colaborarem, fazerem networking e receberem alertas em tempo real.
+
+---
 
 <p align="center">
-  *"Segurança não é um produto, é um processo de engenharia contínuo."*
+  <br>
+  <i>"Segurança não é um produto, é um processo de engenharia contínuo."</i>
 </p>
