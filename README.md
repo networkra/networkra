@@ -6,7 +6,7 @@ Nosso foco é aplicar o conceito de resiliência e resposta autônoma de arquite
 
 ---
 
-### Infraestrutura em Destaque: NRA Sentinel & OSINT EDL
+### >_ Infraestrutura em Destaque: NRA Sentinel & OSINT EDL
 
 O **NRA Sentinel** é um motor ativo de Threat Intelligence (Sniper) que correlaciona telemetria global em tempo real para blindar infraestruturas corporativas com bloqueios preventivos. 
 
@@ -21,7 +21,7 @@ Em paralelo, o módulo **NRA OSINT EDL (Community Edition)** atua como uma engen
 
 ---
 
-### 📺 Ecossistema NetworkRA
+### >_ Ecossistema NetworkRA
 
 Acredito no compartilhamento de arquiteturas e códigos como base da evolução do mercado de cibersegurança nacional.
 
