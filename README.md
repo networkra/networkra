@@ -12,12 +12,12 @@ O **NRA Sentinel** é um motor ativo de Threat Intelligence (Sniper) que correla
 
 Em paralelo, o módulo **NRA OSINT EDL (Community Edition)** atua como uma engenharia de defesa focada na democratização da segurança de borda. Ele automatiza a extração, a sumarização CIDR e a compilação de bases OSINT globais consolidadas (como Spamhaus DROP, Firehol e CISA). O ecossistema entrega um *feed* dinâmico e limpo, blindado por nossa Safelist de DNS e pronto para consumo nativo via *External Connectors*, protegendo firewalls desassistidos ou sem licenciamento ativo contra varreduras massivas.
 
-* **Sentinel (Core Tático):** Integração OTX AlienVault + AbuseIPDB + URLScan.io + MalwareBazaar para mitigação autônoma de Zero-days.
-* **OSINT EDL (Community):** Compilação estruturada contra Scanners Globais, Phishing e C2, democratizando o bloqueio incondicional (drop).
-* **Engenharia de Entrega:** Feeds de alta fidelidade processados em Python e distribuídos via CDN de baixa latência para instâncias FortiOS.
+* **Sentinel:** Integração OTX AlienVault + AbuseIPDB + URLScan.io + MalwareBazaar para mitigação autônoma de Zero-days.
+* **OSINT EDL:** Compilação estruturada contra Scanners Globais, Phishing e C2, democratizando o bloqueio incondicional (drop).
+* **Delivery Engineering:** Feeds de alta fidelidade processados em Python e distribuídos via CDN de baixa latência para instâncias FortiOS.
 
-🌐 **Portal (Cloudflare CDN):** **[networkra.seg.br](https://networkra.seg.br)**
-👉 **[Acesse a Documentação Oficial do NRA Sentinel & OSINT EDL](https://github.com/networkra/nra-sentinel-community)**
+**Portal Cloudflare:** **[networkra.seg.br](https://networkra.seg.br)**
+**[Acesse a Documentação Oficial do NRA Sentinel & OSINT EDL](https://github.com/networkra/nra-sentinel-community)**
 
 ---
 
